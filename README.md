@@ -31,3 +31,10 @@ Computer chose: Gun
 You lose!
 ```
 
+## Contributing
+
+```Feel free to improve the code and submit pull requests.```
+
+## License
+```
+This project is open-source and free to use.```
