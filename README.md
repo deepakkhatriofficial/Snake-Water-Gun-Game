@@ -23,3 +23,11 @@ This is a simple Python implementation of the classic "Snake-Water-Gun" game, wh
    ```bash
    python snake_water_gun.py
    ```
+## Example Gameplay
+```
+Enter your choice (s for Snake, w for Water, g for Gun): s
+You chose: Snake
+Computer chose: Gun
+You lose!
+```
+
