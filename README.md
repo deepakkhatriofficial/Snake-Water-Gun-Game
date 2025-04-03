@@ -2,7 +2,6 @@
 
 This is a simple Python implementation of the classic "Snake-Water-Gun" game, where the user plays against the computer.
 
-
 ## How to Play
 - The user chooses one of the three options:
   - `s` for Snake
